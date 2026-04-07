@@ -1,11 +1,8 @@
 # Lexum
-
-Lexum er en HR Jura assistant-app, der hjælper med...
-
+Lexum er en HR Jura assistant-app, der hjælper virksomheder med hurtig og præcis juridisk sparring.
 ## Formål
-At gøre juridisk rådgivning lettere og mere tilgængelig
-
-## Features
-- AI assistance
+At gøre juridisk rådgivning lettere og mere tilgængelig.
+## Funktioner
+- AI-assistance
 - Juridisk sparring
 - Hurtige svar
